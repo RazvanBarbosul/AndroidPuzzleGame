@@ -1,0 +1,8 @@
+background color(RGB): 41 , 20 , 15
+grass color(Light - RGB): 43 , 150 , 58
+grass color(Dark - RGB): 38 , 141 , 53
+dirt color(Light - RGB): 133 , 60 , 50
+dirt color(Dark - RGB): 128 , 55 , 44
+wall color(dark side): 16 , 9 , 2
+
+the color palette url: https://tr.pinterest.com/pin/437341813799887091/
